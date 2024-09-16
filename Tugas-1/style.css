@@ -1,0 +1,41 @@
+header{
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+}
+
+.login{
+    background-color: brown;
+border-radius: 7px;
+width: 400px;
+margin: 0 auto;
+justify-content: center;
+}
+
+form{
+justify-content: center;
+padding: 50px   ;
+
+}
+
+.sign-in{
+    padding: 20px;
+    justify-content: flex-start;
+}
+.navbar{
+ display: inline;
+
+}
+
+footer{
+    background-color: blue  ;
+    padding: 20px;
+
+}
+body{
+    background-color: aquamarine;
+
+}
+.container-fluid{
+    padding: 10px;
+}

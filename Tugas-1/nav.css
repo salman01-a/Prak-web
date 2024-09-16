@@ -1,0 +1,100 @@
+.container-fluid{
+    padding: 10px;
+}
+body{
+    background-color: aqua;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    background-color: brown;
+    width: 100%;
+    text-align:center;
+    padding: 12px;  
+}
+.container{
+    display: flex;
+justify-content:center ;
+align-items: center;
+width: 100%;
+height: 84vh
+}
+.login{
+    
+background-color: brown;
+border-radius: 10px;
+width: 600px;
+align-items: center ;
+color: #ffff;
+}
+
+form{
+justify-content: center;
+padding: 47px   ;
+width: 430px;
+margin-top: -40px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.btn{
+    background-color: blueviolet;
+    width: 190px;
+    justify-content:center ;
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+  border-color: #ffff;
+}
+.sign-in{
+    padding: 35px;
+    justify-content: flex-start;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.myself{
+    background-color: black;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    color: #ffff;
+}
+img{
+    display: block;
+margin: auto;
+}
+
+.Username{
+    margin-bottom: 18px;
+    width: 100%;
+    border-radius: 3px;
+    border: none;
+}
+.Pas{
+    margin-bottom: 18px;
+    width: 100%;
+    border-radius: 3px;
+    border: none;
+}
+.remember{
+    display: flex;
+    justify-content: space-between;
+
+}
+.anu{
+width: 800px;
+background-color: goldenrod;
+padding: 20px;
+border-radius: 10px;
+color: #ffff;
+}
+.anu h1{    
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.anu p{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif 
+}
